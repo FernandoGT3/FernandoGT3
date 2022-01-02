@@ -34,8 +34,7 @@
   
  <div align="center">
   
-  ![Snake animation](https://github.com/FernandoGT3/FernandoGT3/blob/output/github-contribution-grid-snake.svg)
-  
+    
 </div>
   
 ##

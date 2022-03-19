@@ -5,14 +5,13 @@
    <p> 🌱 I’m currently learning JavaScript  </p>
    <p> 🤔 I'm looking for help with my first work experience. </p>
    <p> 📫 How to reach me: luiz.moloni@gmail.com / l.fcmo@hotmail.com </p>
-   <p> 😄 Pronouns: ele/dele </li>
   </ul>
 </div>
 
 <div align="center">
   <a href="https://github.com/FernandoGT3">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=FernandoGT3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGT3&langs_count=8)(https://github.com/FernandoGT3/github-readme-stats&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoGT3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGT3&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div align="center", style="display: inline_block"><br>

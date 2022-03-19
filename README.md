@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/FernandoGT3">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=FernandoGT3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGT3&langs_count=8)(https://github.com/FernandoGT3/github-readme-stats&theme=midnight-purple"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=FernandoGT3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGT3&langs_count=8)(https://github.com/FernandoGT3/github-readme-stats&theme=midnight-purple"/>
 </div>
 
 <div align="center", style="display: inline_block"><br>
